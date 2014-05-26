@@ -1,9 +1,8 @@
 # Data Structures and Algorithms
-This repo is a personal Library of data stuctures and algorithms.
-## Under Construction
+This repo is a personal Library of data stuctures and algorithms. This is a work in progress.
 
 ### Working on
 
-1. Python (current stage)
+1. Python (Currently on Basic Data Structures)
 2. Ruby
 3. Java
