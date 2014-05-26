@@ -3,6 +3,6 @@ This repo is a personal Library of data stuctures and algorithms. This is a work
 
 ### Working on
 
-1. Python (Currently on Basic Data Structures)
+1. Python (Currently on Recursion)
 2. Ruby
 3. Java
